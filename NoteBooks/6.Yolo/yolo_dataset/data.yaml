@@ -1,0 +1,9 @@
+
+train: C:\Git\ICESI\FAII_TALLER1\Version_Final\Yolo\yolo_dataset\images\train
+val: C:\Git\ICESI\FAII_TALLER1\Version_Final\Yolo\yolo_dataset\images\val
+
+# Number of classes
+nc: 6
+
+# Class names
+names: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
