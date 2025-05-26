@@ -51,7 +51,7 @@ Implementamos el modelo **YOLOv11** para resolver la tarea de **detección de ob
 
 ## Recomendaciones
 
-- Asegúrese de tener las dependencias necesarias instaladas para ejecutar cada notebook (PyTorch, Albumentations, OpenCV, etc.).
+- Asegúrese de tener las dependencias necesarias instaladas para ejecutar cada notebook (PyTorch, Albumentations, OpenCV, etc.) use el archivo requirements.
 - El uso de GPU es altamente recomendado para entrenar los modelos en un tiempo razonable.
 - Verifique que las rutas de las imágenes y los archivos `.csv` estén correctamente definidos antes de ejecutar cada notebook.
 
