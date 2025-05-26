@@ -42,15 +42,16 @@ En este notebook se reutiliza el **modelo personalizado** previamente entrenado 
 
 ---
 
-### 6. `Yolo.ipynb` – *Detección con YOLOv11*
+### 6. `Yolo.ipynb` – *Detección con YOLOv11* ⭐
 
-Implementamos el modelo **YOLOv11** para resolver la tarea de **detección de objetos**, con el objetivo de generar **submissions** para la competencia en Kaggle.
+Implementamos el modelo **YOLOv11** para resolver la tarea de **detección de objetos**, con el objetivo de generar **submissions** para la competencia en Kaggle.  
+⭐ **Esta fue nuestra mejor solución en términos de desempeño general.**
 
 ---
 
 ## Recomendaciones
 
-- Asegúrese de tener las dependencias necesarias instaladas para ejecutar cada notebook (PyTorch, Albumentations, OpenCV, etc.) utilice el archivo requirements.txt.
+- Asegúrese de tener las dependencias necesarias instaladas para ejecutar cada notebook (PyTorch, Albumentations, OpenCV, etc.).
 - El uso de GPU es altamente recomendado para entrenar los modelos en un tiempo razonable.
 - Verifique que las rutas de las imágenes y los archivos `.csv` estén correctamente definidos antes de ejecutar cada notebook.
 
